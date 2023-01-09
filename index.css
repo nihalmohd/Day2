@@ -1,0 +1,329 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+.headder{
+    height: 90px;
+    width: 100%;
+    background-color: #009b4e;
+    display: flex;
+    position: fixed;
+    z-index: 1;
+    top: 0px;
+}
+.headderimg{
+    margin-top: 20px;
+    margin-left: 42px;
+    min-width: 25px;
+    max-height: 50px;
+}
+.headderin{
+    height: 90px;
+    width: 762.56px;
+    position: relative;
+    left: 20px;
+    display: flex;
+    gap: 48px;
+
+    
+
+} 
+.headderwrite{
+   font-family: "FuturaBT W05 ExtraBlack Italic";
+    color: rgb(254 255 255);
+    font-size: 16px;
+    position: relative;
+    top: 34px;
+    left: 55px;
+    font-weight: bold;
+    
+}
+.headderimg1{
+    height: 90px;
+    width: 344px;
+    position: relative;
+    left: -159px;
+   
+}#facebook{
+    font-size: 20px;
+    position: relative;
+    top: 34px;
+    left: 23px;
+    color: #ffffff;
+}
+#twiter{
+    font-size: 20px;
+    position: relative;
+    top: 34px;
+    left: 46px;
+    color: #ffffff;
+}
+#youtube{
+    font-size: 20px;
+    position: relative;
+    top: 34px;
+    left: 63px;
+    color: #ffffff;
+}
+#insta{
+    font-size: 20px;
+    position: relative;
+    top: 34px;
+    left: 85px;
+    color: #ffffff;
+}
+#spotify{
+    font-size: 20px;
+    position: relative;
+    top: 34px;
+    left: 107px;
+    color: #ffffff;
+}
+#user{
+        font-size: 20px;
+        position: relative;
+        top: 34px;
+        left: 144px;
+        color: #ffffff;
+}
+.section1{
+  height: 368.9px;
+    width: 100%;
+    background-color: #00b13f;
+    position: relative;
+    top: 58px;
+}
+.sectionwrite{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 48px;
+    font-weight: 900;
+    color: #ffffff;
+    position: relative;
+    top: -21px;
+
+}.sectionimg{
+    height: 310.9px;
+    width: 631.67px;
+    background-color: blueviolet;
+    position: relative;
+    top: -214px;
+    left: 631px;
+
+}.section1typ{
+    height: 215px;
+    width: 370px;
+    position: relative;
+    top: 86px;
+    left: 158px;
+}
+.sectionimgsprite{
+        height: 336.9px;
+        width: 631.67px;
+        position: relative;
+        top: 31px;
+}
+.sectionbutton{
+    height: 44px;
+    width: 171.7px;
+    background-color: #ffffff;
+    position: relative;
+    top: -107px;
+    left: -471px;
+    border: none;
+}
+.buttonwrite{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 20px;
+    font-weight: 900;
+    color:#00b13f;
+    position: relative;
+    top: -6px;
+}
+.section2{
+    height: 376.35px;
+    width: 1263.33px;
+    background-color: #ffffff;
+}
+.section2in{
+    width: 652.97px;
+    height: 120.93px;
+    margin: auto;
+    position: relative;
+    top: -153px;
+    left: -30px;
+}
+.video{
+    width: 652.97px;
+    height: 120.93px;
+    position: relative;
+    top: -135px;
+    left: 256px;
+    background: #000;
+
+}.SECTIONTYPIN{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 27px;
+    font-weight: 900;
+    color: #0e1511;
+    position: relative;
+    top: -6px;
+
+}
+
+.sectiontypin2{
+
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 15px;
+    font-weight: 100;
+    color: #0e1511;;
+    position: relative;
+    top: -6px;
+}
+.section3{
+   height: 430.32px;
+    width: 1263.33px;
+    background-color: #f7f7f8;
+    position: relative;
+    top: 707px;
+}
+.section3img{
+    height: 430.32px;
+    width: 631.37px;
+    position: relative;
+    top: -1px;
+    left: 250px;
+}
+.sectionimage{
+    height: 430.32px;
+    width: 631.37;
+}
+.footer{
+    height: 542.99px;
+    width: 1263.33px;
+    background-color: #009b4e;
+    position: relative;
+    top: 706px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.footerpic{
+    height: 222.2px;
+    width: 219.32px;
+    position: relative;
+    top: 60px;
+    left: 94px;
+}
+
+
+.footerpicture{
+    position: relative;
+    height: 82px;
+    top: 11px;
+    left: 40px;
+}
+.footertyped{
+    height: 156.2px;
+    width: 263.19px;
+    position: relative;
+    top: -211px;
+    left: 332px;
+
+}
+.footertyp1{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 19px;
+    font-weight: 900;
+    color: #ffffff;
+    position: relative;
+    top: 35px;
+}
+.ffacebooke{
+    position: relative;
+    top: 102px;
+    left: -114px;
+}
+.ftwiter{
+    position: relative;
+    top: 103px;
+    left: -105px;
+}
+.fyoutube{
+    position: relative;
+    top: 73px;
+    left: 144px;
+}
+.finsta{
+    position: relative;
+    top: 73px;
+    left: 153px;
+
+}
+.fspotify{
+    position: relative;
+    top: 73px;
+    left: 162px;
+}
+.footerrow{
+    height: 312.99px;
+    width: 293.19px;
+    position: relative;
+    top: -345px;
+    left: 693px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.footerheading{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 18px;
+    font-weight: 900;
+    color: #ffffff;
+    position: relative;
+    top: 26px;
+
+}
+#footerflex{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 18px;
+    font-weight: 900;
+    color: #ffffff;
+    position: relative;
+    top: 43px;
+    left: 30px;
+
+}
+.footerlast{
+    height: 128px;
+    width: 100%;
+    position: relative;
+    top: -261px;
+    left: -71px;
+    display: flex;
+    gap: 20px;  
+    
+}
+
+.footerlasttyp1{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 16px;
+    font-weight: 900;
+    color: #ffffff;
+    position: relative;
+    top: 33px;
+    left: 490px;
+}
+#footerlasttyp2{
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-size: 13px;
+    font-weight: 900;
+    color: #ffffff;
+    position: relative;
+    top: 74px;
+    left: -91px;
+    
+}
+
+
+
+
+
